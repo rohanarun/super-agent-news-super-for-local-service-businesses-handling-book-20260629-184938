@@ -1,0 +1,41 @@
+{
+  "citations": [
+    {
+      "title": "Introducing computer use in Gemini 3.5 Flash",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "title": "Gemini Can Now Control Your Computer. Hackers Are Already Targeting AI Agents",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/516746/"
+    },
+    {
+      "title": "Yelp Launches the New Yelp Assistant",
+      "url": "https://www.businesswire.com/news/home/20260421005289/en/Yelp-Launches-the-New-Yelp-Assistant-Transforming-Local-Discovery-from-Search-to-Answers-and-Actions"
+    },
+    {
+      "title": "grid-auto-flow CSS property",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-flow"
+    },
+    {
+      "title": "Building a Bento Grid Layout with Modern CSS Grid",
+      "url": "https://www.wearedevelopers.com/en/magazine/682/building-a-bento-grid-layout-with-modern-css-grid-682"
+    }
+  ],
+  "design_plan": "Premium editorial landing with cinematic hero, AIDA structure, responsive bento grids using CSS Grid with grid-auto-flow: dense, GSAP-enhanced motion guarded for no-CDN scenarios, Geist/Satoshi font stack, and clear CTA contrast. Emphasis on real workflows (booking tools, inboxes, CRMs) and fair competitor context.",
+  "generated_at": "2026-06-29T18:49:45.557869+00:00",
+  "headline": "Super for Local Service Businesses\nThat Book Jobs, Send Quotes,\nand Reply to Customers",
+  "site_brief": {
+    "audience": "local service businesses handling bookings, quotes, and customer replies",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "local service businesses handling bookings, quotes, and customer replies AI assistant",
+      "local service businesses handling bookings, quotes, and customer replies personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-local-service-businesses-handling-bookings-quote",
+    "title": "Super for local service businesses handling bookings, quotes, and customer replies"
+  },
+  "summary": "A conversion-focused landing page showing how Super\u2019s personal AI agents operate real software to handle bookings, quotes, and customer replies\u2014reusing a computer-use cache to make repeated workflows faster and cheaper for local service businesses."
+}
